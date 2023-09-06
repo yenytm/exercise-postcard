@@ -1,4 +1,4 @@
-# Live over [here(https://yenytm.github.io/exercise-postcard/)]
+# Live over [here](https://yenytm.github.io/exercise-postcard/)
 
 
 <!-- hide -->
