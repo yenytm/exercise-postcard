@@ -8,6 +8,9 @@ body {
 } */
 .postcard {
 	background-color: white;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
 	width: 400px;
 	height: 300px;
 	margin: auto;
@@ -32,6 +35,8 @@ body {
 
 .postcard-body {
 	display: flex;
+	justify-content: space-between;
+	align-items: center;
 	color: blueviolet;
 }
 
@@ -43,6 +48,10 @@ body {
 .body-left,
 .body-right {
 	padding: 10px;
+}
+
+p {
+	line-height: 1.5;
 }
 
 input {
